@@ -47,7 +47,7 @@ The car must not come into contact with any of the other cars or objects on the 
 
 **The car stays in its lane except when changing lanes**
 
-During lane changes, the car doesn't spend more than 3 seconds outside the lane lines. During normal operation the car stays inside the lane lines with the flow of traffic.
+During lane changes, the car doesn't spend more than 3 seconds outside the lane lines. During normal operation, the car stays inside the lane lines with the flow of traffic.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
